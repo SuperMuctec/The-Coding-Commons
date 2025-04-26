@@ -1,6 +1,6 @@
 Download the zip file in the repository, then extract it
 
-```markdown
+
 # The Coding Commons 🚀
 
 Welcome to **The Coding Commons**, a website dedicated to sharing and collaborating on open-source code and programming resources. Whether you're a beginner or an expert, this platform is designed to help you grow your coding skills, contribute to projects, and connect with like-minded developers.
@@ -37,7 +37,7 @@ To get started with **The Coding Commons**, follow these steps:
 3. Install the dependencies:
    ```bash
    npm install
-   ```
+
 
 ### Running the Website 🌐
 
