@@ -1,3 +1,5 @@
+Download the zip file in the repository, then extract it
+
 ```markdown
 # The Coding Commons 🚀
 
